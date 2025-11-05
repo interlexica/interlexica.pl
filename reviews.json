@@ -1,0 +1,17 @@
+"reviews": [
+  {
+      "name": "Szymon Wieczorek",
+      "rating": 5,
+      "text": "Tłumaczenie medyczne wykonane bardzo dobrze. Polecam!",
+  },
+  {
+      "name": "Islom Shukurov",
+      "rating": 5,
+      "text": "Really great service, very quick and convenient plus affordable price:). I highly recommend to everyone.",
+  },
+  {
+      "name": "Atari Su",
+      "rating": 5,
+      "text": null,
+  }
+]
